@@ -1,0 +1,11 @@
+C:\New-C#-Projects\New_Tutorial_Project\MyLibrary\bin\Debug\net8.0\MyLibrary.deps.json
+C:\New-C#-Projects\New_Tutorial_Project\MyLibrary\bin\Debug\net8.0\MyLibrary.dll
+C:\New-C#-Projects\New_Tutorial_Project\MyLibrary\bin\Debug\net8.0\MyLibrary.pdb
+C:\New-C#-Projects\New_Tutorial_Project\MyLibrary\obj\Debug\net8.0\MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\New-C#-Projects\New_Tutorial_Project\MyLibrary\obj\Debug\net8.0\MyLibrary.AssemblyInfoInputs.cache
+C:\New-C#-Projects\New_Tutorial_Project\MyLibrary\obj\Debug\net8.0\MyLibrary.AssemblyInfo.cs
+C:\New-C#-Projects\New_Tutorial_Project\MyLibrary\obj\Debug\net8.0\MyLibrary.csproj.CoreCompileInputs.cache
+C:\New-C#-Projects\New_Tutorial_Project\MyLibrary\obj\Debug\net8.0\MyLibrary.dll
+C:\New-C#-Projects\New_Tutorial_Project\MyLibrary\obj\Debug\net8.0\refint\MyLibrary.dll
+C:\New-C#-Projects\New_Tutorial_Project\MyLibrary\obj\Debug\net8.0\MyLibrary.pdb
+C:\New-C#-Projects\New_Tutorial_Project\MyLibrary\obj\Debug\net8.0\ref\MyLibrary.dll
